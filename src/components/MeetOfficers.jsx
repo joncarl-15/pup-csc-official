@@ -45,7 +45,7 @@ const MeetOfficers = () => {
     },
     {
       id: 3,
-      name: 'Nehemiah Yzabhll F. Gallardot',
+      name: 'Ms. Nehemiah Yzabhll F. Gallardot',
       position: 'General Secretary',
       image: sec,
       social: {
@@ -54,7 +54,7 @@ const MeetOfficers = () => {
     },
     {
       id: 4,
-      name: 'Harry Jay H. Sevillena',
+      name: 'Mx. Harry Jay H. Sevillena',
       position: 'Assistant Secretary',
       image: cscLogo,
       social: {
@@ -63,7 +63,7 @@ const MeetOfficers = () => {
     },
     {
       id: 5,
-      name: 'Kate Angel E. Driz',
+      name: 'Ms. Kate Angel E. Driz',
       position: 'General Treasurer',
       image: gent,
       social: {
@@ -72,7 +72,7 @@ const MeetOfficers = () => {
     },
     {
       id: 5,
-      name: 'Janelle L. Cantillana',
+      name: 'Ms. Janelle L. Cantillana',
       position: 'General Auditor',
       image: aud,
       social: {
@@ -81,7 +81,7 @@ const MeetOfficers = () => {
     },
     {
       id: 6,
-      name: 'Precious Mikyla Montes',
+      name: 'Ms. Precious Mikyla Montes',
       position: 'Chairperson, Academic Committee',
       image: acadC,
       social: {
@@ -90,7 +90,7 @@ const MeetOfficers = () => {
     },
     {
       id: 7,
-      name: 'Francis S. Flores',
+      name: 'Mr. Francis S. Flores',
       position: 'Vice Chairperson, Academic Committee',
       image: acadVc,
       social: {
@@ -99,7 +99,7 @@ const MeetOfficers = () => {
     },
     {
       id: 8,
-      name: 'Kurl Paulo L. Bulaklak',
+      name: 'Mr. Kurl Paulo L. Bulaklak',
       position: 'Chairperson, Cultural Committee',
       image: cscLogo,
       social: {
@@ -108,7 +108,7 @@ const MeetOfficers = () => {
     },
     {
       id: 9,
-      name: 'Jorgia Beatriz C. Albos',
+      name: 'Ms. Jorgia Beatriz C. Albos',
       position: 'Vice Chairperson, Cultural Committee',
       image: culVc,
       social: {
@@ -117,7 +117,7 @@ const MeetOfficers = () => {
     },
     {
       id: 10,
-      name: 'Jolan R. Maquiñana',
+      name: 'Mr. Jolan R. Maquiñana',
       position: 'Chairperson, Institutional Committee',
       image: insC,
       social: {
@@ -126,7 +126,7 @@ const MeetOfficers = () => {
     },
     {
       id: 11,
-      name: 'Juan Jordan Emmanuel Revediso',
+      name: 'Mr. Juan Jordan Emmanuel Revediso',
       position: 'Vice Chairperson, Institutional Committee',
       image: insVc,
       social: {
@@ -135,7 +135,7 @@ const MeetOfficers = () => {
     },
     {
       id: 12,
-      name: 'Darren A. Morelo',
+      name: 'Mr. Darren A. Morelo',
       position: 'Chairperson, Networking Committee',
       image: netC,
       social: {
@@ -144,7 +144,7 @@ const MeetOfficers = () => {
     },
     {
       id: 13,
-      name: 'Reiven Kyle M. Velano',
+      name: 'Mr. Reiven Kyle M. Velano',
       position: 'Chairperson, PCA Committee',
       image: pcaC,
       social: {
@@ -153,7 +153,7 @@ const MeetOfficers = () => {
     },
     {
       id: 14,
-      name: 'Janella Kim E. Cantillana',
+      name: 'Ms. Janella Kim E. Cantillana',
       position: 'Vice Chairperson, PCA Committee',
       image: pcaVc,
       social: {
@@ -162,7 +162,7 @@ const MeetOfficers = () => {
     },
     {
       id: 15,
-      name: 'Jon Carlo A. Marasigan',
+      name: 'Mr. Jon Carlo A. Marasigan',
       position: 'Member, PCA Committee',
       label: 'Web Dev',
       image: pcaM,
@@ -172,7 +172,7 @@ const MeetOfficers = () => {
     },
     {
       id: 16,
-      name: 'Jayzel L. Pedrezuela',
+      name: 'Ms. Jayzel L. Pedrezuela',
       position: 'Chairperson, Sports Committee',
       image: sportC,
       social: {
@@ -181,7 +181,7 @@ const MeetOfficers = () => {
     },
     {
       id: 17,
-      name: 'Ann Jillian Pauleen B. Avila',
+      name: 'Ms. Ann Jillian Pauleen B. Avila',
       position: 'Vice Chairperson, Sports Committee',
       image: sportVc,
       social: {
@@ -190,7 +190,7 @@ const MeetOfficers = () => {
     },
     {
       id: 18,
-      name: 'Noelle Cassandra A. Perida',
+      name: 'Ms. Noelle Cassandra A. Perida',
       position: 'Member, Sports Committee',
       image: sportM,
       social: {
@@ -199,7 +199,7 @@ const MeetOfficers = () => {
     },
     {
       id: 19,
-      name: 'Joy Ann E. Tormon',
+      name: 'Ms. Joy Ann E. Tormon',
       position: 'Chairperson, S.T.R.A.W Committee',
       image: cscLogo,
       social: {
@@ -208,7 +208,7 @@ const MeetOfficers = () => {
     },
     {
       id: 20,
-      name: 'Aina Mae L. Lascano',
+      name: 'Ms. Aina Mae L. Lascano',
       position: 'Vice Chairperson, S.T.R.A.W Committee',
       image: strawVc,
       social: {
