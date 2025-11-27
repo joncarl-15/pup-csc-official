@@ -133,7 +133,7 @@ const MissionVision = () => {
                   </li>
                   <li className="flex items-start">
                     <span className="text-orange-600 mr-2 mt-1 font-bold flex-shrink-0">SG 9:</span>
-                    <span>Organizational  Development</span>
+                    <span>Organizational Development</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-orange-600 mr-2 mt-1 font-bold flex-shrink-0">SG 10:</span>

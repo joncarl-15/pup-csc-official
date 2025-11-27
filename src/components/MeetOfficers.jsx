@@ -21,6 +21,7 @@ import sportC from '../Picture/sport-c.png'
 import sportVc from '../Picture/sport-vc.png'
 import sportM from '../Picture/sport-m.png'
 import strawVc from '../Picture/straw-vc.png'
+import strawC from '../Picture/straw-c.png'
 
 const MeetOfficers = () => {
   const [sectionRef, sectionVisible] = useScrollAnimation()
@@ -201,7 +202,7 @@ const MeetOfficers = () => {
       id: 19,
       name: 'Ms. Joy Ann E. Tormon',
       position: 'Chairperson, S.T.R.A.W Committee',
-      image: cscLogo,
+      image: strawC,
       social: {
         facebook: 'https://www.facebook.com/Tormonjoyann',
       }
