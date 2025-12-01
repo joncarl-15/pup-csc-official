@@ -87,9 +87,6 @@ const MeetCSOAOfficers = () => {
             Meet the SC COSOA Officers
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-orange-600 to-red-600 mx-auto rounded mb-4"></div>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            --
-          </p>
         </div>
 
         <Slider {...settings} className="csoa-officer-slider">

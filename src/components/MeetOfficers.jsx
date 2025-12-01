@@ -22,6 +22,8 @@ import sportVc from '../Picture/sport-vc.png'
 import sportM from '../Picture/sport-m.png'
 import strawVc from '../Picture/straw-vc.png'
 import strawC from '../Picture/straw-c.png'
+import asec from '../Picture/a-sec.png'
+import culC from '../Picture/cul-c.png'
 
 const MeetOfficers = () => {
   const [sectionRef, sectionVisible] = useScrollAnimation()
@@ -46,7 +48,7 @@ const MeetOfficers = () => {
     },
     {
       id: 3,
-      name: 'Ms. Nehemiah Yzabhll F. Gallardot',
+      name: 'Ms. Nehemiah Yzabhll F. Gallardo',
       position: 'General Secretary',
       image: sec,
       social: {
@@ -55,11 +57,11 @@ const MeetOfficers = () => {
     },
     {
       id: 4,
-      name: 'Mx. Harry Jay H. Sevillena',
+      name: 'Mx. Ahyesha Hernandez',
       position: 'Assistant Secretary',
-      image: cscLogo,
+      image: asec,
       social: {
-        facebook: 'https://www.facebook.com/harry.sevillena.9',
+        facebook: 'https://www.facebook.com/harry.hzhz',
       }
     },
     {
@@ -102,7 +104,7 @@ const MeetOfficers = () => {
       id: 8,
       name: 'Mr. Kurl Paulo L. Bulaklak',
       position: 'Chairperson, Cultural Committee',
-      image: cscLogo,
+      image: culC,
       social: {
         facebook: 'https://www.facebook.com/kurlpaulo.bulaklak.58',
       }
